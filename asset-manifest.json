@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VenueDecider/static/css/main.30c53964.css",
+    "main.js": "/VenueDecider/static/js/main.a514c20e.js",
+    "static/js/453.b8924e4e.chunk.js": "/VenueDecider/static/js/453.b8924e4e.chunk.js",
+    "index.html": "/VenueDecider/index.html",
+    "main.30c53964.css.map": "/VenueDecider/static/css/main.30c53964.css.map",
+    "main.a514c20e.js.map": "/VenueDecider/static/js/main.a514c20e.js.map",
+    "453.b8924e4e.chunk.js.map": "/VenueDecider/static/js/453.b8924e4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30c53964.css",
+    "static/js/main.a514c20e.js"
+  ]
+}
